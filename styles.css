@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(255, 245, 233);
+}
+
+
+h1 {
+    color: rgb(50, 33, 4);
+}
+
+.center {
+    text-align: center;
+
+}
+
+a {
+    font-size: 2em;
+    text-decoration: none;
+    color: rgb(50, 33, 4);
+}
+
+a span {
+    margin-bottom: 5%;
+    display: inline-block;
+
+}
+
+img {
+    border-radius: 20px;
+    width: 100%;
+    height: auto;
+}
+
+
+.recipes {
+    list-style: none;
+    display: grid;
+    padding: 2em;
+    text-align: center;
+    grid-template-columns: auto ;
+    
+}
+
+
+
+
